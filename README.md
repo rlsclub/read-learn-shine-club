@@ -6,6 +6,14 @@ Static website for the Read, Learn and Shine Club, Department of Library and Inf
 
 Open `index.html` in a browser.
 
+## Files To Upload
+
+- `index.html`
+- `styles.css`
+- `README.md`
+- `assets/hero-library-club.png`
+- `assets/read-learn-shine-logo.png`
+
 ## Publish Free Without Buying Hosting or a Domain
 
 Use one of these free options:
